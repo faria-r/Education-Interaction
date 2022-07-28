@@ -1,3 +1,16 @@
-.dark-carousal-bg{
-    background-color:rgba(29, 29, 29, 0.7);
-}
+
+.carousel-item img{
+filter: brightness(25%);
+height: 550px !important; 
+} 
+
+/* <div class="carousel-item active ">
+                    <div class=" position-relative ">
+                       <img src="images/cover/cover-1.png" class="d-block w-100 img-fluid " alt="...">
+                    <div class="carousel-caption d-md-block position-absolute top-50 start-50 translate-middle ">
+                      <h5 class="fs-1 fw-bold  text-white">Get Started Digital Learning</h5>
+                      <p class="fw-bold fs-6">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                      <button class="btn btn-primary px-4">Get Started</button>
+                    </div>
+                    </div>
+                  </div> */
